@@ -1,7 +1,7 @@
-- 👋 Hi, I’m lax
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ai
-- 💞️ I’m looking to collaborate on projects
+-  Hi, I’m lax
+-  I’m interested in coding
+-  I’m currently learning ai
+-  I’m looking to collaborate on projects
 
 
 <!---
